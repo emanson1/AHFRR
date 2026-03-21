@@ -20,8 +20,8 @@ const store = configureStore(history, initialState);
 const rootElement = document.getElementById('root');
 
 const configuration = {
-  applicationName: 'CofC - 1.0.0',
-  applicationAcronym:'CFC',
+  applicationName: 'AHFRR - 1.0.0',
+  applicationAcronym:'AHFRR',
   folder:''
 };
 const container = document.getElementById('root'); // Or your actual DOM node variable
