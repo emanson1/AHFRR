@@ -194,7 +194,7 @@ return (
         </Grid>
         <Grid item xs={10}>
           <Typography className={classes.headingMedium}  variant={'h4'}>
-          CFC Hardwood is:
+          AFHRR is:
           <ul>
             <li>Family owned business serving the greater Columbia area for sixteen (16) years</li>
             <li>Exceptional work and honest pricing, with 100s of satisfied customers and a 5 star Google rating</li>
@@ -229,7 +229,7 @@ return (
           <Typography className={classes.headingMedium} variant={'h4'}>
           <div>About CFC Hardwood Services LLC:</div>
           <ul>
-            <li>CofC Hardwood LLC was founded in 2010 by William Miller to provide the absolute best in industry hardwood floor refinishing</li>
+            <li>Artisinal Hardwood Floor Refinishing and Remodelling (AHFRR) LLC was founded by Ben Miller to provide the absolute best in industry hardwood floor refinishing</li>
             {/* <li>Blah Blah Blah give me more words</li> */}
             </ul></Typography>
             </Grid>
