@@ -324,7 +324,7 @@ const MainPageWrapper = props => {
 
           <Grid container>
             <Grid item xs={12}><Typography variant={'h2'} className={classes.TitleClass}>
-              Artisinal Hardwood Floor Refinishing and Remodelling (AHFRR) LLC</Typography></Grid>
+              Artisinal Hardwood Floor Refinishing and Restoration (AHFRR) LLC</Typography></Grid>
           </Grid>
 
         </Grid>
