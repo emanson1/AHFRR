@@ -78,8 +78,8 @@ export default function QuoteModal(props) {
       backgroundColor: 'white',
       // width: '100%',
       // height: '100%',
-      opacity: .85,
-      padding: 10,
+      opacity: .95,
+      padding: -10,
       [theme.breakpoints.down('xs')]: {
         padding: 2
       }
