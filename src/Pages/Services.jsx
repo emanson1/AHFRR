@@ -203,9 +203,9 @@ return (
         </Grid>
         <Grid item xs={10}>
           <Typography  className={classes.headingMedium} variant={'h4'}>
-          <div>CFC Hardwood Services include:</div>
+          <div>AHFRR Hardwood Services include:</div>
           <ul>
-            <li>CofC Hardwood LLC offers the absolute best in industry hardwood floor refinishing</li>
+            <li>AHFRR offers the absolute best in industry hardwood floor refinishing</li>
             {/* <li>Laminate work that Billy mentioned to me...</li> */}
             </ul></Typography>
             </Grid>

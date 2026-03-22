@@ -227,7 +227,7 @@ return (
         </Grid>
         <Grid item xs={10}>
           <Typography className={classes.headingMedium} variant={'h4'}>
-          <div>About CFC Hardwood Services LLC:</div>
+          <div>About AHFRR LLC:</div>
           <ul>
             <li>Artisinal Hardwood Floor Refinishing and Remodelling (AHFRR) LLC was founded by Ben Miller to provide the absolute best in industry hardwood floor refinishing</li>
             {/* <li>Blah Blah Blah give me more words</li> */}

@@ -202,7 +202,7 @@ return (
         </Grid>
         <Grid item xs={10}>
           <Typography className={classes.headingMedium} variant={'h4'}>
-          <div>About CFC Hardwood Services LLC:</div>
+          <div>About AHFRR LLC:</div>
           <ul>
             <li>CofC Hardwood LLC was founded in 2010 by William Miller to provide the absolute best in industry hardwood floor refinishing</li>
             
