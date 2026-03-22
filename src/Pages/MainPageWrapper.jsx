@@ -161,27 +161,27 @@ const useStyles = makeStyles((theme) => ({
 
     fontWeight: 'bold',
     textShadow: '-1px 0 #8C92B4, 0 3px #8C92B4, 1px 0 #8C92B4, 0 -1px #8C92B4',
-    fontSize: 70,
+    fontSize: 50,
 
     [theme.breakpoints.down('lg')]:
     {
-      fontSize: 70,
+      fontSize: 50,
     },
     [theme.breakpoints.down('md')]:
     {
       paddingTop: 95,
-      fontSize: 60,
+      fontSize: 40,
     },
     [theme.breakpoints.down('sm')]: {
       paddingTop: 70,
-      fontSize: 30,
+      fontSize: 20,
       textShadow: '-1px 0 #8C92B4, 0 1px #8C92B4, 1px 0 #8C92B4, 0 -1px #8C92B4',
 
     },
     [theme.breakpoints.down('xs')]: {
       paddingTop: 15,
 
-      fontSize: 18,
+      fontSize: 10,
     },
 
 
