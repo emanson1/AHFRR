@@ -156,7 +156,7 @@ const useStyles = makeStyles((theme) => ({
   },
   TitleClass: {
     paddingTop: 220,
-    color: '#003569',
+    color: '#690d0d',
     textAlign: 'center',
 
     fontWeight: 'bold',
