@@ -227,9 +227,9 @@ return (
         </Grid>
         <Grid item xs={10}>
           <Typography className={classes.headingMedium} variant={'h4'}>
-          <div>About AHFRR LLC:</div>
+          <div>About AHFRR:</div>
           <ul>
-            <li>Artisinal Hardwood Floor Refinishing and Restoration (AHFRR) LLC was founded by Ben Miller to provide the absolute best in industry hardwood floor refinishing</li>
+            <li>Artisinal Hardwood Floor Refinishing and Restoration (AHFRR) was founded by Ben Miller to provide the absolute best in industry hardwood floor refinishing</li>
             {/* <li>Blah Blah Blah give me more words</li> */}
             </ul></Typography>
             </Grid>

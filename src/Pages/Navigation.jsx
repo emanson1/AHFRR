@@ -82,7 +82,7 @@ const Navigation = (props) => {
         <Grid container className={classes.navClass}>
             <Grid item xs={12}>
                 <Typography variant={'h2'} className={classes.TitleClass}>
-                    AHFRR LLC<hr/>
+                    AHFRR<hr/>
                 </Typography>
             </Grid>
             <Grid container className={classes.subContainerBackground}>

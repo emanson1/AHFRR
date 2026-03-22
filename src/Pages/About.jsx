@@ -202,9 +202,9 @@ return (
         </Grid>
         <Grid item xs={10}>
           <Typography className={classes.headingMedium} variant={'h4'}>
-          <div>About AHFRR LLC:</div>
+          <div>About AHFRR:</div>
           <ul>
-            <li>CofC Hardwood LLC was founded in 2010 by William Miller to provide the absolute best in industry hardwood floor refinishing</li>
+            <li>Artisinal Hardwood Flooring Refinishing and Restoration (AHFRR) was founded in by Ben Miller to provide the absolute best in industry hardwood floor refinishing</li>
             
             </ul></Typography>
             </Grid>
