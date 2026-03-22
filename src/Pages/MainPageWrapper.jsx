@@ -174,14 +174,14 @@ const useStyles = makeStyles((theme) => ({
     },
     [theme.breakpoints.down('sm')]: {
       paddingTop: 70,
-      fontSize: 20,
+      fontSize: 25,
       textShadow: '-1px 0 #8C92B4, 0 1px #8C92B4, 1px 0 #8C92B4, 0 -1px #8C92B4',
 
     },
     [theme.breakpoints.down('xs')]: {
       paddingTop: 15,
 
-      fontSize: 10,
+      fontSize: 18,
     },
 
 
