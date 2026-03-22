@@ -4,7 +4,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import { showModal, hideModal } from '../actions/bluevilleActions';
 import { connect } from 'react-redux';
 import Background from '../Images/Gallery/floorpic2.png';
-import CofCLogo from '../Images/CFCLogo.png';
+import CofCLogo from '../Images/AHFRRsmall.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faList, faPlus } from '@fortawesome/free-solid-svg-icons';
 const tabs = {
