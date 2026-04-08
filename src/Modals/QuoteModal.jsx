@@ -6,7 +6,7 @@ import { Grid, Box, Typography, Button } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import CofCLogoSmall from '../Images/AHFRRsmall.png';
 import Attachments from '../Pages/Attachments.jsx';
-//import emailjs from '@emailjs/browser';
+import emailjs from '@emailjs/browser';
 
 
  
