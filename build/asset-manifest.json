@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./AHFRR/static/css/main.4f166948.chunk.css",
-    "main.js": "./AHFRR/static/js/main.8e3385f2.chunk.js",
-    "main.js.map": "./AHFRR/static/js/main.8e3385f2.chunk.js.map",
-    "runtime-main.js": "./AHFRR/static/js/runtime-main.d0cc4c5d.js",
-    "runtime-main.js.map": "./AHFRR/static/js/runtime-main.d0cc4c5d.js.map",
-    "static/js/2.70b5b981.chunk.js": "./AHFRR/static/js/2.70b5b981.chunk.js",
-    "static/js/2.70b5b981.chunk.js.map": "./AHFRR/static/js/2.70b5b981.chunk.js.map",
-    "index.html": "./AHFRR/index.html",
-    "static/css/main.4f166948.chunk.css.map": "./AHFRR/static/css/main.4f166948.chunk.css.map",
-    "static/js/2.70b5b981.chunk.js.LICENSE.txt": "./AHFRR/static/js/2.70b5b981.chunk.js.LICENSE.txt",
-    "static/media/2019-10-10 (1).png": "./AHFRR/static/media/2019-10-10 (1).967deb8c.png",
-    "static/media/2019-10-10 (2).png": "./AHFRR/static/media/2019-10-10 (2).fb9abe49.png",
-    "static/media/2019-10-10.png": "./AHFRR/static/media/2019-10-10.9b67ca34.png",
-    "static/media/2020-11-05 (1).png": "./AHFRR/static/media/2020-11-05 (1).78b3630a.png",
-    "static/media/2020-11-05.png": "./AHFRR/static/media/2020-11-05.b46ef565.png",
-    "static/media/CFCLogo.704408cf.png": "./AHFRR/static/media/CFCLogo.704408cf.png",
-    "static/media/floorpic2.png": "./AHFRR/static/media/floorpic2.63a3d581.png"
+    "main.css": "./static/css/main.4f166948.chunk.css",
+    "main.js": "./static/js/main.615e4b72.chunk.js",
+    "main.js.map": "./static/js/main.615e4b72.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7e753c8f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7e753c8f.js.map",
+    "static/js/2.997be6ac.chunk.js": "./static/js/2.997be6ac.chunk.js",
+    "static/js/2.997be6ac.chunk.js.map": "./static/js/2.997be6ac.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.4f166948.chunk.css.map": "./static/css/main.4f166948.chunk.css.map",
+    "static/js/2.997be6ac.chunk.js.LICENSE.txt": "./static/js/2.997be6ac.chunk.js.LICENSE.txt",
+    "static/media/2019-10-10 (1).png": "./static/media/2019-10-10 (1).967deb8c.png",
+    "static/media/2019-10-10 (2).png": "./static/media/2019-10-10 (2).fb9abe49.png",
+    "static/media/2019-10-10.png": "./static/media/2019-10-10.9b67ca34.png",
+    "static/media/2020-11-05 (1).png": "./static/media/2020-11-05 (1).78b3630a.png",
+    "static/media/2020-11-05.png": "./static/media/2020-11-05.b46ef565.png",
+    "static/media/AHFRRsmall.db91e826.png": "./static/media/AHFRRsmall.db91e826.png",
+    "static/media/floorpic2.png": "./static/media/floorpic2.63a3d581.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0cc4c5d.js",
-    "static/js/2.70b5b981.chunk.js",
+    "static/js/runtime-main.7e753c8f.js",
+    "static/js/2.997be6ac.chunk.js",
     "static/css/main.4f166948.chunk.css",
-    "static/js/main.8e3385f2.chunk.js"
+    "static/js/main.615e4b72.chunk.js"
   ]
 }
